@@ -1,3 +1,4 @@
 module.exports = {
-  uri: 'mongodb://localhost:27017/gonode03'
+  uri:
+    'mongodb+srv://jmedeiros:ACgeYpxJaqWO0oFL@cluster0-naqcb.mongodb.net/gonode03?retryWrites=true'
 }
